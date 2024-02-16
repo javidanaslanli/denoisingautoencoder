@@ -7,3 +7,7 @@ This is the result.
 
 
 ![download](https://github.com/javidanaslanli/denoisingautoencoder/assets/145380543/ba9de916-2815-4707-970f-fc5c62381823)
+
+
+#Links
+[Linkedin](www.linkedin.com/in/cavidan-aslanlı-426208254)
