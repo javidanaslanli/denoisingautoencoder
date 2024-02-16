@@ -14,5 +14,4 @@ This is the result.
 
 
 
-# Links
-[Linkedin](www.linkedin.com/in/cavidan-aslanlı-426208254)
+
