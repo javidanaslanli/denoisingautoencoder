@@ -1,4 +1,4 @@
-# denoisingautoencoder
+# Denoising Autoencoder
 Denoising Autoencoder with VGG16 encoder and self-written decoder.
 
 VGG16 model use as an encoder in this dataset and decoder is written according to the VGG16 model and accurracy is 99.73%. 24 million parameters that model have.
